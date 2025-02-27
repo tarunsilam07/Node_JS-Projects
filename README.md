@@ -1,1 +1,1 @@
-# Node_JS
+**URL Shortener Project** – A dynamic web application that converts long URLs into short, manageable links while tracking click analytics. Built with **Node.js, Express, MongoDB, and EJS**, it features **JWT-based authentication**, a **responsive UI**, and user-friendly navigation for efficient link management.
